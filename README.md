@@ -1,2 +1,2 @@
-# quaggaexample
+# quagga-scanner
 Created with CodeSandbox
